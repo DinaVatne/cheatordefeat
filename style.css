@@ -125,48 +125,217 @@
 /*UI*/
 
 #points {
-    background-image: url(Poeng.svg);
+    background-image: url(point.svg);
     background-repeat: no-repeat;
     width: 10vw;
     height: 17vw;
     top: 0vw;
-    left: 10vw;
+    left: 0vw;
     position: absolute;
-    background-size: 76%;
+    background-size: 60%;
 }
 
-#life {
-    background-image: url(Liv.svg);
+#point-1 {
+    background-image: url(point-1.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-2 {
+    background-image: url(point-2.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-3 {
+    background-image: url(point-3.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-4 {
+    background-image: url(point-4.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-5 {
+    background-image: url(point-5.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-6 {
+    background-image: url(point-6.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-7 {
+    background-image: url(point-7.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-8 {
+    background-image: url(point-8.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-9 {
+    background-image: url(point-9.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-10 {
+    background-image: url(point-10.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-11 {
+    background-image: url(point-11.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#point-12 {
+    background-image: url(point-12.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 10vw;
+    height: 17vw;
+    top: 0.5vw;
+    left: 6vw;
+    position: absolute;
+    background-size: 35%;
+}
+
+#liv-1 {
+    background-image: url(Strike-2.svg);
     background-repeat: no-repeat;
     width: 10vw;
     height: 20vw;
     top: 0vw;
-    left: 0vw;
+    left: 93vw;
     position: absolute;
-    background-size: 100%;
+    background-size: 60%;
 }
 
-#time {
-    background-image: url(Deadline.svg);
+#liv-2 {
+    background-image: url(Strike-2.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 20vw;
+    top: 0vw;
+    left: 87vw;
+    position: absolute;
+    background-size: 60%;
+}
+
+#liv-3 {
+    background-image: url(Strike-2.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 20vw;
+    top: 0vw;
+    left: 81vw;
+    position: absolute;
+    background-size: 60%;
+}
+
+#klokke {
+    background-image: url(Klokke.svg);
     background-repeat: no-repeat;
     width: 10vw;
     height: 17vw;
-    top: 0vw;
-    right: 3vw;
+    top: 0.2vw;
+    left: 51vw;
     position: absolute;
-    background-size: 77%;
+    background-size: 39%;
 }
 
-#pause {
-    background-image: url(Pause.svg);
+#viser {
+    background-image: url(Viser.svg);
     background-repeat: no-repeat;
-    width: 5vw;
-    height: 10vw;
-    top: 0vw;
-    right: 0vw;
+    width: 4vw;
+    height: 4vw;
+    top: 0.1vw;
+    left: 52.9vw;
     position: absolute;
-    background-size: 58%;
+    background-size: 4%;
 }
+
+
+
+
 
 
 /*Startskjerm*/
@@ -216,9 +385,9 @@
 /*Settings*/
 
 #settings {
-    background-image: url(Volume.svg);
+    background-image: url(Volume_1.svg);
     background-repeat: no-repeat;
-    display: none;
+    z-index: 2;
     width: 100vw;
     height: 56.25vw;
     margin: auto;
@@ -229,10 +398,37 @@
     background-size: 50%;
 }
 
+#exit {
+     background-image: url(Exit.svg);
+    background-repeat: no-repeat;
+    z-index: 3;
+    width: 1vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 0.1vw;
+    left: 90vw;
+    background-size: 100%;
+}
+
 /*Spill slutt*/
 
+#try-again {
+    background-image: url(try-again.svg);
+    background-repeat: no-repeat;
+    display: none;
+    z-index: 3;
+    width: 30vw;
+    height: 17vw;
+    top: 37vw;
+    left: 40vw;
+    position: absolute;
+    background-size: 100%;
+}
+
 #slutt-A {
-    background-image: url(Sluttskjerm-A.svg);
+    background-image: url(Slutt-A.svg);
     background-repeat: no-repeat;
     display: none;
     width: 100vw;
@@ -246,7 +442,7 @@
 }
 
 #slutt-E {
-    background-image: url(Sluttskjerm-E.svg);
+    background-image: url(Slutt-E.svg);
     background-repeat: no-repeat;
     display: none;
     width: 100vw;
@@ -260,7 +456,7 @@
 }
 
 #slutt-F {
-    background-image: url(Sluttskjerm-F.svg);
+    background-image: url(Slutt-F.svg);
     background-repeat: no-repeat;
     display: none;
     width: 100vw;
