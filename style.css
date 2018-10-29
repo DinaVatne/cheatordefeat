@@ -23,6 +23,21 @@
     background-size: 50%;
 }
 
+.nerd1move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count: ¨
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
+}
+
 #nerd2 {
     background-image: url(Nerd.svg);
     background-repeat: no-repeat;
@@ -32,6 +47,21 @@
     left: 50vw;
     position: absolute;
     background-size: 37%;
+}
+
+.nerd2move {
+   animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
 }
 
 #nerd3 {
@@ -45,6 +75,21 @@
     background-size: 37%;
 }
 
+.nerd3move{
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
+}
+
 #nerd4 {
     background-image: url(Nerd.svg);
     background-repeat: no-repeat;
@@ -54,6 +99,21 @@
     left: 20vw;
     position: absolute;
     background-size: 30%;
+}
+
+.nerd4move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
 }
 
 #nerd5 {
@@ -67,6 +127,21 @@
     background-size: 20%;
 }
 
+.nerd5move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
+}
+
 #gangster1 {
     background-image: url(Gangster.svg);
     background-repeat: no-repeat;
@@ -76,6 +151,21 @@
     left: 35vw;
     position: absolute;
     background-size: 60%;
+}
+
+.gangster1move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
 }
 
 #gangster2 {
@@ -89,6 +179,21 @@
     background-size: 50%;
 }
 
+.gangster2move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
+}
+
 #gangster3 {
     background-image: url(Gangster.svg);
     background-repeat: no-repeat;
@@ -98,6 +203,21 @@
     left: 14vw;
     position: absolute;
     background-size: 47%;
+}
+
+.gangster3move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
 }
 
 #gangster4 {
@@ -111,6 +231,21 @@
     background-size: 30%;
 }
 
+.gangster4move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
+}
+
 #gangster5 {
     background-image: url(Gangster.svg);
     background-repeat: no-repeat;
@@ -120,6 +255,21 @@
     left: 40vw;
     position: absolute;
     background-size: 28%;
+}
+
+.gangster5move {
+    animation-name:
+    animation-duration:
+    animation-iteration-count:
+}
+
+@keyframes{
+    from {
+        transform:
+    }
+    to {
+      transform:
+    }
 }
 
 /*UI*/
