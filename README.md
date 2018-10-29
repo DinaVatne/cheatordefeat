@@ -1,1 +1,1 @@
-http://dinavatne.com/kea/03-animation.html
+http://dinavatne.com/kea/03-animation/spil.html
