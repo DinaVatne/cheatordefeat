@@ -387,6 +387,7 @@
 #settings {
     background-image: url(Volume_1.svg);
     background-repeat: no-repeat;
+    display: none;
     z-index: 2;
     width: 100vw;
     height: 56.25vw;
@@ -399,16 +400,47 @@
 }
 
 #exit {
-     background-image: url(Exit.svg);
+    background-image: url(Exit.svg);
     background-repeat: no-repeat;
+    display: none;
     z-index: 3;
-    width: 1vw;
+    width:3vw;
     height: 56.25vw;
     margin: auto;
     position: absolute;
     overflow: hidden;
-    top: 0.1vw;
-    left: 90vw;
+    top: 16vw;
+    left: 68vw;
+    background-size: 100%;
+}
+
+#volume-strek1 {
+    background-image: url(Volume-strek.svg);
+    background-repeat: no-repeat;
+    display: none;
+    z-index: 3;
+    width:1.2vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 33vw;
+    left: 50vw;
+    background-size: 100%;
+}
+
+#volume-strek2 {
+    background-image: url(Volume-strek.svg);
+    background-repeat: no-repeat;
+    display: none;
+    z-index: 3;
+    width:1.2vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 38.5vw;
+    left: 50vw;
     background-size: 100%;
 }
 
