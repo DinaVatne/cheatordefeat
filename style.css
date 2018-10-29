@@ -1,0 +1,280 @@
+#screen {
+     background-image: url(Bakgrunn.svg);
+     background-size: cover;
+     width: 100vw;
+     height: 56.25vw;
+     margin: auto;
+     position: relative;
+     overflow: hidden;
+     top: 0vw;
+     left: 0vw;
+ }
+
+/*Spillelementer*/
+
+#nerd1 {
+    background-image: url(Nerd.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 47vw;
+    left: 25vw;
+    position: absolute;
+    background-size: 50%;
+}
+
+#nerd2 {
+    background-image: url(Nerd.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 37vw;
+    left: 50vw;
+    position: absolute;
+    background-size: 37%;
+}
+
+#nerd3 {
+    background-image: url(Nerd.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 37vw;
+    left: 93vw;
+    position: absolute;
+    background-size: 37%;
+}
+
+#nerd4 {
+    background-image: url(Nerd.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 30vw;
+    left: 20vw;
+    position: absolute;
+    background-size: 30%;
+}
+
+#nerd5 {
+    background-image: url(Nerd.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 27vw;
+    left: 60vw;
+    position: absolute;
+    background-size: 20%;
+}
+
+#gangster1 {
+    background-image: url(Gangster.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 47vw;
+    left: 35vw;
+    position: absolute;
+    background-size: 60%;
+}
+
+#gangster2 {
+    background-image: url(Gangster.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 38vw;
+    left: 60vw;
+    position: absolute;
+    background-size: 50%;
+}
+
+#gangster3 {
+    background-image: url(Gangster.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 37vw;
+    left: 14vw;
+    position: absolute;
+    background-size: 47%;
+}
+
+#gangster4 {
+    background-image: url(Gangster.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 30vw;
+    left: 90vw;
+    position: absolute;
+    background-size: 30%;
+}
+
+#gangster5 {
+    background-image: url(Gangster.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 28vw;
+    left: 40vw;
+    position: absolute;
+    background-size: 28%;
+}
+
+/*UI*/
+
+#points {
+    background-image: url(Poeng.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 0vw;
+    left: 10vw;
+    position: absolute;
+    background-size: 76%;
+}
+
+#life {
+    background-image: url(Liv.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 20vw;
+    top: 0vw;
+    left: 0vw;
+    position: absolute;
+    background-size: 100%;
+}
+
+#time {
+    background-image: url(Deadline.svg);
+    background-repeat: no-repeat;
+    width: 10vw;
+    height: 17vw;
+    top: 0vw;
+    right: 3vw;
+    position: absolute;
+    background-size: 77%;
+}
+
+#pause {
+    background-image: url(Pause.svg);
+    background-repeat: no-repeat;
+    width: 5vw;
+    height: 10vw;
+    top: 0vw;
+    right: 0vw;
+    position: absolute;
+    background-size: 58%;
+}
+
+
+/*Startskjerm*/
+
+#start {
+    background-image: url(Spillskjerm_1.svg);
+    background-repeat: no-repeat;
+    display: none;
+    z-index: 2;
+    width: 100vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 13vw;
+    left: 15vw;
+    background-size: 70%;
+}
+
+#play {
+    background-image: url(Play-knapp.svg);
+    background-repeat: no-repeat;
+    display: none;
+    z-index: 3;
+    width: 30vw;
+    height: 17vw;
+    top: 37vw;
+    left: 40vw;
+    position: absolute;
+    background-size: 100%;
+
+}
+
+#settings-wheel {
+    background-image: url(Settings-knapp.svg);
+    background-repeat: no-repeat;
+    display: none;
+    z-index: 3;
+    width: 30vw;
+    height: 17vw;
+    top: 15vw;
+    left: 77vw;
+    position: absolute;
+    background-size: 16%;
+}
+
+/*Settings*/
+
+#settings {
+    background-image: url(Volume.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 100vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 13vw;
+    left: 25vw;
+    background-size: 50%;
+}
+
+/*Spill slutt*/
+
+#slutt-A {
+    background-image: url(Sluttskjerm-A.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 100vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 13vw;
+    left: 15vw;
+    background-size: 70%;
+}
+
+#slutt-E {
+    background-image: url(Sluttskjerm-E.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 100vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 13vw;
+    left: 15vw;
+    background-size: 70%;
+}
+
+#slutt-F {
+    background-image: url(Sluttskjerm-F.svg);
+    background-repeat: no-repeat;
+    display: none;
+    width: 100vw;
+    height: 56.25vw;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    top: 13vw;
+    left: 15vw;
+    background-size: 70%;
+}
+
+
+
+
+
+
